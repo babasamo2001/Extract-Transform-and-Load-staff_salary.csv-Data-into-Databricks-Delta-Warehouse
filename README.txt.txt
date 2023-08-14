@@ -1,6 +1,6 @@
 Project Information
 
-Title: Extract, transform and loading staff_salary.csv data into databricks delta warehouse
+Title: Extract, Transform and Load staff_salary.csv Data into Databricks Delta Warehouse
 
 Summary: 
  - Prepare analytics-ready staff salary data for data analysts to be able to analyse the data and come up with insights on factors
